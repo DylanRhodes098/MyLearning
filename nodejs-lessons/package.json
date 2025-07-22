@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "node": "^20.19.4"
+  },
+  "name": "nodejs-lessons",
+  "version": "1.0.0",
+  "main": "lesson1.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
